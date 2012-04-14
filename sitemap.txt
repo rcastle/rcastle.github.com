@@ -1,0 +1,10 @@
+
+http://rcastle.github.com/archive.html
+http://rcastle.github.com/atom.xml
+http://rcastle.github.com/categories.html
+http://rcastle.github.com/index.html
+http://rcastle.github.com/pages.html
+http://rcastle.github.com/sitemap.txt
+http://rcastle.github.com/tags.html
+
+http://rcastle.github.com/braindump/example

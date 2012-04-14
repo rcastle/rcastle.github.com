@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Random Token</title>
+ <link href="http://rcastle.github.com/atom.xml" rel="self"/>
+ <link href="http://rcastle.github.com"/>
+ <updated>2012-04-14T20:02:59+01:00</updated>
+ <id>http://rcastle.github.com</id>
+ <author>
+   <name>Richard Castle</name>
+   <email>richard.castle156@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Example</title>
+   <link href="http://rcastle.github.com/braindump/example"/>
+   <updated>2012-04-12T00:00:00+01:00</updated>
+   <id>http://rcastle.github.com/braindump/example</id>
+   <content type="html">&lt;p&gt;Example Post&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
